@@ -1,6 +1,3 @@
-
-
-  
 <p align="center">
 <img src="/intro.gif">
 </p>
@@ -15,9 +12,10 @@
   - &nbsp;&nbsp;<img width="20" src="/levelset_logo.png">&nbsp;&nbsp; Former **Two Time** **Software Engineering intern** at **Levelset**
   - &nbsp;&nbsp;<img width="20" src="/ibm_logo.png">&nbsp;&nbsp; Former **Cloud Engineering Trainee** at **IBM**
 
-  - &nbsp;&nbsp;<img width="20" src="/coding.png">&nbsp;  **Total Software Engineering Work Experience Of 6 Months**
+  - &nbsp;&nbsp;<img width="20" src="/coding.png">&nbsp;**Total Software Engineering Work Experience Of 6 Months.**
   
-  - &nbsp;&nbsp;<img width="20" src="/idea.png">&nbsp;&nbsp; Interested in **Cloud Development, Infrastructure and DevOps .**
+  - &nbsp;&nbsp;<img width="20" src="/idea.png">&nbsp;&nbsp; Interested in **Cloud Development, Infrastructure and DevOps.**
+  - &nbsp;&nbsp;<a href="https://drive.google.com/file/d/1EDUHFvcuuRy84jq0nKCUKDebSMfkaftl/view?usp=sharing" target="_blank"> <img width="20" src="/resume.png"/> </a> &nbsp;**Click on the Resume Icon !**
 <h2> <img width="30" src="/tools.png"> Skills</h2>
 <p align="center">
 <h3> 
@@ -74,7 +72,15 @@ Languages
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hisham-maged10&repo=path-finder&theme=gruvbox)](https://github.com/hisham-maged10/path-finder)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hisham-maged10&repo=Live-Data-Map-Visualization-Application&theme=gruvbox)](https://github.com/hisham-maged10/Live-Data-Map-Visualization-Application)
 </center>
 <h2>
-<img width="80" src="/find.gif"> Reach me on 
+<img width="80" src="/trending.png"> Trending Videos 
+</h2>
+
+- [Graph Algorithm Visualizer (path-finder) Demo (2.5k views)](https://www.youtube.com/watch?v=-A9SsbLfDMs)
+- [Leetcode Missing Number (Cyclic Sort Pattern) in depth explanation  (548 view)](https://www.youtube.com/watch?v=MEpE-afGfIo)
+- [Live Data Map Visualization Project Implementation Timelapse  (230 view)](https://www.youtube.com/watch?v=B0r_JLMiwho)
+
+<h2>
+<img width="30" src="/find.gif"> Reach me on 
 </h2>
 <p align="center"> 
 <a href="https://linkedin.com/in/hishammaged10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hishammaged10" height="33" width="33" /></a> &nbsp;&nbsp;
