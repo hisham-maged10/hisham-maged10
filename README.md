@@ -1,6 +1,7 @@
 
 
 
+
   
 <p align="center">
 <img src="/intro.gif">
@@ -18,7 +19,7 @@
 
   - &nbsp;&nbsp;<img width="20" src="/coding.png">&nbsp; 6 Months **Total Software Engineering Work Experience.**
   
-  - &nbsp;&nbsp;<img width="40" src="/idea.png">&nbsp;&nbsp; Interested in **Cloud Development, Infrastructure and DevOps .**
+  - &nbsp;&nbsp;<img width="20" src="/idea.png">&nbsp;&nbsp; Interested in **Cloud Development, Infrastructure and DevOps .**
 <h2> <img width="50" src="/tools.png"> Skills</h2>
 <p align="center">
 <h3> 
@@ -69,7 +70,7 @@ Languages
 <img src="https://github-profile-trophy.vercel.app/?username=hisham-maged10&theme=gruvbox&
 no-frame=true"/>
 <h2>
-<img width="80" src="/medal.png"> Hall Of Fame
+<img width="30" src="/medal.png"> Hall Of Fame
 </h2>&nbsp;
 <center>
 
