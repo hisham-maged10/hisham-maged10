@@ -1,4 +1,5 @@
 
+
   
 <p align="center">
 <img src="/intro.gif">
@@ -70,13 +71,7 @@ Languages
 </h2>&nbsp;
 <center>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hisham-maged10&repo=path-finder&theme=gruvbox)](https://github.com/hisham-maged10/path-finder)
-
-<iframe width="786" height="442" src="https://www.youtube.com/embed/-A9SsbLfDMs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>"
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hisham-maged10&repo=Live-Data-Map-Visualization-Application&theme=gruvbox)](https://github.com/hisham-maged10/Live-Data-Map-Visualization-Application)
-
-<iframe width="1308" height="720" src="https://www.youtube.com/embed/B0r_JLMiwho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hisham-maged10&repo=path-finder&theme=gruvbox)](https://github.com/hisham-maged10/path-finder)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hisham-maged10&repo=Live-Data-Map-Visualization-Application&theme=gruvbox)](https://github.com/hisham-maged10/Live-Data-Map-Visualization-Application)
 </center>
 <h2>
 <img width="80" src="/find.gif"> Reach me on 
