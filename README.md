@@ -15,7 +15,7 @@
   - &nbsp;&nbsp;<img width="20" src="/levelset_logo.png">&nbsp;&nbsp; Former **Two Time** **Software Engineering intern** at **Levelset**
   - &nbsp;&nbsp;<img width="20" src="/ibm_logo.png">&nbsp;&nbsp; Former **Cloud Engineering Trainee** at **IBM**
 
-  - &nbsp;&nbsp;<img width="20" src="/coding.png">&nbsp; 6 Months **Total Software Engineering Work Experience.**
+  - &nbsp;&nbsp;<img width="20" src="/coding.png">&nbsp;  **Total Software Engineering Work Experience Of 6 Months**
   
   - &nbsp;&nbsp;<img width="20" src="/idea.png">&nbsp;&nbsp; Interested in **Cloud Development, Infrastructure and DevOps .**
 <h2> <img width="30" src="/tools.png"> Skills</h2>
