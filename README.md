@@ -1,3 +1,4 @@
+
 <p align="center">
 <img src="/intro.gif">
 </p>
@@ -78,7 +79,11 @@ Languages
 - [Graph Algorithm Visualizer (path-finder) Demo (2.5k views)](https://www.youtube.com/watch?v=-A9SsbLfDMs)
 - [Leetcode Missing Number (Cyclic Sort Pattern) in depth explanation  (548 view)](https://www.youtube.com/watch?v=MEpE-afGfIo)
 - [Live Data Map Visualization Project Implementation Timelapse  (230 view)](https://www.youtube.com/watch?v=B0r_JLMiwho)
+<h2>
+<img width="30" src="/notes.png"> Blogs 
+</h2>
 
+- [An Exciting blog where I keep journal of my journey building Linux from Scratch as well as explanation of any knowledge picked up during that time](https://hisham-maged10.github.io/Building-Linux-From-Scratch/)
 <h2>
 <img width="30" src="/find.gif"> Reach me on 
 </h2>
