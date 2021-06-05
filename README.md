@@ -1,23 +1,24 @@
 
+
   
 <p align="center">
-<img src="https://github.com/hisham-maged10/hisham-maged10/blob/master/intro.gif">
+<img src="/intro.gif">
 </p>
-<h2><img width="40" src="https://github.com/hisham-maged10/hisham-maged10/blob/master/info.gif"> About me</h2> 
+<h2><img width="40" src="/info.gif"> About me</h2> 
 <div align="center"> 
 
 ![GitHub followers](https://img.shields.io/github/followers/hisham-maged10?label=Followers) ![GitHub followers](https://img.shields.io/github/stars/hisham-maged10?affiliations=OWNER%2CCOLLABORATOR) [![Repos Badge](https://badges.pufler.dev/repos/hisham-maged10)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/hisham-maged10)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/all/hisham-maged10)](https://badges.pufler.dev) ![Commits Badge](https://badges.pufler.dev/commits/yearly/hisham-maged10)
 </div>
  
-  - &nbsp;&nbsp;<img width="40" src="https://github.com/hisham-maged10/hisham-maged10/blob/master/graduation-hat.png">&nbsp;&nbsp; **Studies Computer Engineering at Faculty of Engineering, Alexandria University. (2021 Graduate)**
+  - &nbsp;&nbsp;<img width="40" src="/graduation-hat.png">&nbsp;&nbsp; **Studies Computer Engineering at Faculty of Engineering, Alexandria University. (2021 Graduate)**
 
-  - &nbsp;&nbsp;<img width="40" src="https://github.com/hisham-maged10/hisham-maged10/blob/master/levelset_logo.png">&nbsp;&nbsp; Former **Two Time** **Software Engineering intern** at **Levelset**
-  - &nbsp;&nbsp;<img width="40" src="https://github.com/hisham-maged10/hisham-maged10/blob/master/ibm_logo.png">&nbsp;&nbsp; Former **Cloud Engineering Trainee** at **IBM**
+  - &nbsp;&nbsp;<img width="40" src="/levelset_logo.png">&nbsp;&nbsp; Former **Two Time** **Software Engineering intern** at **Levelset**
+  - &nbsp;&nbsp;<img width="40" src="/ibm_logo.png">&nbsp;&nbsp; Former **Cloud Engineering Trainee** at **IBM**
 
-  - &nbsp;&nbsp;<img width="40" src="https://github.com/hisham-maged10/hisham-maged10/blob/master/coding.png">&nbsp; 6 Months **Total Software Engineering Work Experience.**
+  - &nbsp;&nbsp;<img width="40" src="/coding.png">&nbsp; 6 Months **Total Software Engineering Work Experience.**
   
   - &nbsp;&nbsp;<img width="40" src="/idea.png">&nbsp;&nbsp; Interested in **Cloud Development, Infrastructure and DevOps .**
-<h2> <img width="50" src="https://github.com/hisham-maged10/hisham-maged10/blob/master/tools.png"> Skills</h2>
+<h2> <img width="50" src="/tools.png"> Skills</h2>
 <p align="center">
 <h3> 
 Languages 
@@ -61,20 +62,20 @@ Languages
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> &nbsp;
 <a href="https://jetbrains.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="Jetbrains" width="40" height="40"/> </a> &nbsp; 
 <br/>
-<h2> <img width="30" src="https://github.com/hisham-maged10/hisham-maged10/blob/master/trophy.png">&nbsp; Github Trophies</h2>
+<h2> <img width="30" src="/trophy.png">&nbsp; Github Trophies</h2>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hisham-maged10&theme=gruvbox&count_private=true&show_icons=true"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hisham-maged10&theme=gruvbox&count_private=true&hide=css&langs_count=8&layout=compact"/>
 <img src="https://github-profile-trophy.vercel.app/?username=hisham-maged10&theme=gruvbox&
 no-frame=true"/>
 <h2>
-<img width="80" src="https://github.com/hisham-maged10/hisham-maged10/blob/master/medal.png"> Hall Of Fame
+<img width="80" src="/medal.png"> Hall Of Fame
 </h2>&nbsp;
 <center>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hisham-maged10&repo=path-finder&theme=gruvbox)](https://github.com/hisham-maged10/path-finder)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hisham-maged10&repo=Live-Data-Map-Visualization-Application&theme=gruvbox)](https://github.com/hisham-maged10/Live-Data-Map-Visualization-Application)
 </center>
 <h2>
-<img width="80" src="https://github.com/hisham-maged10/hisham-maged10/blob/master/find.gif"> Reach me on 
+<img width="80" src="/find.gif"> Reach me on 
 </h2>
 <p align="center"> 
 <a href="https://linkedin.com/in/hishammaged10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hishammaged10" height="33" width="33" /></a> &nbsp;&nbsp;
