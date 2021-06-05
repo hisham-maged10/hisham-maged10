@@ -1,3 +1,5 @@
+
+  
 <p align="center">
 <img src="https://github.com/hisham-maged10/hisham-maged10/blob/master/intro.gif">
 </p>
@@ -14,7 +16,7 @@
 
   - &nbsp;&nbsp;<img width="40" src="https://github.com/hisham-maged10/hisham-maged10/blob/master/coding.png">&nbsp; 6 Months **Total Software Engineering Work Experience.**
   
-  - &nbsp;&nbsp;<img width="40" src="https://github.com/hisham-maged10/hisham-maged10/blob/master/idea.png">&nbsp;&nbsp; Interested in **Cloud Development, Infrastructure and DevOps .**
+  - &nbsp;&nbsp;<img width="40" src="/idea.png">&nbsp;&nbsp; Interested in **Cloud Development, Infrastructure and DevOps .**
 <h2> <img width="50" src="https://github.com/hisham-maged10/hisham-maged10/blob/master/tools.png"> Skills</h2>
 <p align="center">
 <h3> 
@@ -65,11 +67,12 @@ Languages
 <img src="https://github-profile-trophy.vercel.app/?username=hisham-maged10&theme=gruvbox&
 no-frame=true"/>
 <h2>
-<img width="80" src="https://github.com/hisham-maged10/hisham-maged10/blob/master/medal.png"> Pinned Repositories 
+<img width="80" src="https://github.com/hisham-maged10/hisham-maged10/blob/master/medal.png"> Hall Of Fame
 </h2>&nbsp;
+<center>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hisham-maged10&repo=path-finder)](https://github.com/hisham-maged10/path-finder)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hisham-maged10&repo=Live-Data-Map-Visualization-Application)](https://github.com/hisham-maged10/Live-Data-Map-Visualization-Application)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hisham-maged10&repo=Building-Linux-From-Scratch)](https://github.com/hisham-maged10/Building-Linux-From-Scratch)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hisham-maged10&repo=simple-server-client-k8s-deployment)](https://github.com/hisham-maged10/simple-server-client-k8s-deployment)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hisham-maged10&repo=Transportation-Reservation-System)](https://github.com/hisham-maged10/Transportation-Reservation-System)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hisham-maged10&repo=path-finder&theme=gruvbox)](https://github.com/hisham-maged10/path-finder)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hisham-maged10&repo=Live-Data-Map-Visualization-Application&theme=gruvbox)](https://github.com/hisham-maged10/Live-Data-Map-Visualization-Application)
+</center>
 <h2>
 <img width="80" src="https://github.com/hisham-maged10/hisham-maged10/blob/master/find.gif"> Reach me on 
 </h2>
