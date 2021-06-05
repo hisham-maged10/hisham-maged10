@@ -72,7 +72,7 @@ Languages
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hisham-maged10&repo=path-finder&theme=gruvbox)](https://github.com/hisham-maged10/path-finder)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hisham-maged10&repo=Live-Data-Map-Visualization-Application&theme=gruvbox)](https://github.com/hisham-maged10/Live-Data-Map-Visualization-Application)
 </center>
 <h2>
-<img width="80" src="/trending.png"> Trending Videos 
+<img width="30" src="/trending.png"> Trending Videos 
 </h2>
 
 - [Graph Algorithm Visualizer (path-finder) Demo (2.5k views)](https://www.youtube.com/watch?v=-A9SsbLfDMs)
