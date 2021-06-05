@@ -2,6 +2,7 @@
 
 
 
+
   
 <p align="center">
 <img src="/intro.gif">
@@ -20,7 +21,7 @@
   - &nbsp;&nbsp;<img width="20" src="/coding.png">&nbsp; 6 Months **Total Software Engineering Work Experience.**
   
   - &nbsp;&nbsp;<img width="20" src="/idea.png">&nbsp;&nbsp; Interested in **Cloud Development, Infrastructure and DevOps .**
-<h2> <img width="50" src="/tools.png"> Skills</h2>
+<h2> <img width="30" src="/tools.png"> Skills</h2>
 <p align="center">
 <h3> 
 Languages 
@@ -67,10 +68,9 @@ Languages
 <h2> <img width="30" src="/trophy.png">&nbsp; Github Trophies</h2>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hisham-maged10&theme=gruvbox&count_private=true&show_icons=true"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hisham-maged10&theme=gruvbox&count_private=true&hide=css&langs_count=8&layout=compact"/>
-<img src="https://github-profile-trophy.vercel.app/?username=hisham-maged10&theme=gruvbox&
-no-frame=true"/>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=hisham-maged10&theme=gruvbox&no-frame=true"/>
 <h2>
-<img width="30" src="/medal.png"> Hall Of Fame
+<img width="20" src="/medal.png"> Hall Of Fame
 </h2>&nbsp;
 <center>
 
