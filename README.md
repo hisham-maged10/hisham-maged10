@@ -83,7 +83,7 @@ Languages
 <img width="30" src="/notes.png"> Blogs 
 </h2>
 
-- [An Exciting blog where I keep journal of my journey building Linux from Scratch as well as explanation of any knowledge picked up during that time](https://hisham-maged10.github.io/Building-Linux-From-Scratch/)
+- [An Exciting blog where I keep journal of my journey building Linux from Scratch as well as explanation of any knowledge picked up during that time (Mainly In-depth Linux knowledge)](https://hisham-maged10.github.io/Building-Linux-From-Scratch/)
 <h2>
 <img width="30" src="/find.gif"> Reach me on 
 </h2>
