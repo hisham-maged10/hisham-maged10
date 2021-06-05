@@ -66,7 +66,7 @@ Languages
 <a href="https://jetbrains.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="Jetbrains" width="40" height="40"/> </a> &nbsp; 
 <br/>
 <h2> <img width="30" src="/trophy.png">&nbsp; Github Trophies</h2>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hisham-maged10&theme=gruvbox&count_private=true&show_icons=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hisham-maged10&theme=gruvbox&count_private=true&show_icons=true&hide=prs,issues"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hisham-maged10&theme=gruvbox&count_private=true&hide=css&langs_count=8&layout=compact"/>
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=hisham-maged10&theme=gruvbox&no-frame=true"/>
 <h2>
