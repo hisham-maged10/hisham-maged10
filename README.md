@@ -2,7 +2,7 @@
 <p align="center">
 <img src="/intro.gif">
 </p>
-<h2><img width="20" src="/info.png"> About me</h2> 
+<h2><img width="20" src="/info.png"> A Little About Me</h2> 
 <div align="center"> 
 
 ![GitHub followers](https://img.shields.io/github/followers/hisham-maged10?label=Followers) ![GitHub followers](https://img.shields.io/github/stars/hisham-maged10?affiliations=OWNER%2CCOLLABORATOR) [![Repos Badge](https://badges.pufler.dev/repos/hisham-maged10)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/hisham-maged10)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/all/hisham-maged10)](https://badges.pufler.dev) ![Commits Badge](https://badges.pufler.dev/commits/yearly/hisham-maged10)
