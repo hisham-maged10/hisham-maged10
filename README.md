@@ -1,3 +1,4 @@
+
 <p align="center">
 <img src="/intro.gif">
 </p>
@@ -12,9 +13,9 @@
   - &nbsp;&nbsp;<img width="20" src="/levelset_logo.png">&nbsp;&nbsp; Former **Two Time** **Software Engineering intern** at **Levelset**
   - &nbsp;&nbsp;<img width="20" src="/ibm_logo.png">&nbsp;&nbsp; Former **Cloud Engineering Trainee** at **IBM**
 
-  - &nbsp;&nbsp;<img width="20" src="/command-line-unscreen.gif">&nbsp;&nbsp;**Total Software Engineering Work Experience Of 6 Months.**
+  - &nbsp;&nbsp;<img width="30" src="/code-unscreen.gif">&nbsp;&nbsp;**Total Software Engineering Work Experience Of 6 Months.**
   
-  - &nbsp;&nbsp;<img width="20" src="/idea.png">&nbsp;&nbsp; Interested in **Cloud Development, Infrastructure and DevOps.**
+  - &nbsp;&nbsp;<img width="30" src="/zoom-unscreen">&nbsp;&nbsp; Interested in **Cloud Development, Infrastructure and DevOps.**
   - &nbsp;<a href="https://drive.google.com/file/d/1EDUHFvcuuRy84jq0nKCUKDebSMfkaftl/view?usp=sharing" target="_blank"> <img width="20" src="/resume.png"/> </a> &nbsp;**Click on the Resume Icon !**
 <h2> <img width="30" src="/code-fork-unscreen.gif"> Skills</h2>
 <p align="center">
@@ -79,7 +80,7 @@ Languages
 - [Leetcode Missing Number (Cyclic Sort Pattern) in depth explanation  (548 view)](https://www.youtube.com/watch?v=MEpE-afGfIo)
 - [Live Data Map Visualization Project Implementation Timelapse  (230 view)](https://www.youtube.com/watch?v=B0r_JLMiwho)
 <h2>
-<img width="30" src="/notes.png"> Blogs 
+<img width="30" src="/edit-unscreen.gif"> Blogs 
 </h2>
 
 - [An Exciting blog where I keep journal of my journey building Linux from Scratch as well as explanation of any knowledge picked up during that time (Mainly In-depth Linux knowledge)](https://hisham-maged10.github.io/Building-Linux-From-Scratch/)
