@@ -61,8 +61,8 @@ Languages
 <a href="https://jetbrains.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="Jetbrains" width="40" height="40"/> </a> &nbsp; 
 <br/>
 <h2> <img width="30" src="/trophy.png">&nbsp; Github Trophies</h2>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hisham-maged10&theme=gruvbox&count_private=true&show_icons=true&hide=prs,issues"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hisham-maged10&theme=gruvbox&count_private=true&hide=css&langs_count=8&layout=compact"/>
+<img width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=hisham-maged10&theme=gruvbox&count_private=true&show_icons=true&hide=prs,issues"/>
+<img width="375" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hisham-maged10&theme=gruvbox&count_private=true&hide=css&langs_count=8&layout=compact"/>
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=hisham-maged10&theme=gruvbox&no-frame=true"/>
 <h2>
 <img width="20" src="/medal.png"> Hall Of Fame
@@ -79,12 +79,12 @@ Languages
 - [Leetcode Missing Number (Cyclic Sort Pattern) in depth explanation  (548 view)](https://www.youtube.com/watch?v=MEpE-afGfIo)
 - [Live Data Map Visualization Project Implementation Timelapse  (230 view)](https://www.youtube.com/watch?v=B0r_JLMiwho)
 <h2>
-<img width="30" src="/edit-unscreen.gif"> Blogs 
+<img width="40" src="/edit-unscreen.gif"> Blogs 
 </h2>
 
 - [An Exciting blog where I keep journal of my journey building Linux from Scratch as well as explanation of any knowledge picked up during that time (Mainly In-depth Linux knowledge)](https://hisham-maged10.github.io/Building-Linux-From-Scratch/)
 <h2>
-<img width="30" src="/find.gif"> Reach me on 
+<img width="40" src="/find.gif"> Reach me on 
 </h2>
 <p align="center"> 
 <a href="https://linkedin.com/in/hishammaged10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hishammaged10" height="33" width="33" /></a> &nbsp;&nbsp;
