@@ -1,7 +1,3 @@
-
-
-
-
 <p align="center">
 <img src="/intro.gif">
 </p>
@@ -16,11 +12,11 @@
   - &nbsp;&nbsp;<img width="20" src="/levelset_logo.png">&nbsp;&nbsp; Former **Two Time** **Software Engineering intern** at **Levelset**
   - &nbsp;&nbsp;<img width="20" src="/ibm_logo.png">&nbsp;&nbsp; Former **Cloud Engineering Trainee** at **IBM**
 
-  - &nbsp;&nbsp;<img width="20" src="/command_line_unscreen.gif">&nbsp;&nbsp;**Total Software Engineering Work Experience Of 6 Months.**
+  - &nbsp;&nbsp;<img width="20" src="/command-line-unscreen.gif">&nbsp;&nbsp;**Total Software Engineering Work Experience Of 6 Months.**
   
   - &nbsp;&nbsp;<img width="20" src="/idea.png">&nbsp;&nbsp; Interested in **Cloud Development, Infrastructure and DevOps.**
   - &nbsp;<a href="https://drive.google.com/file/d/1EDUHFvcuuRy84jq0nKCUKDebSMfkaftl/view?usp=sharing" target="_blank"> <img width="20" src="/resume.png"/> </a> &nbsp;**Click on the Resume Icon !**
-<h2> <img width="30" src="/code_fork_unscreen.gif"> Skills</h2>
+<h2> <img width="30" src="/code-fork-unscreen.gif"> Skills</h2>
 <p align="center">
 <h3> 
 Languages 
