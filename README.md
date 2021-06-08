@@ -12,7 +12,7 @@
   - &nbsp;&nbsp;<img width="30" src="/levelset_logo.png">&nbsp;&nbsp; Former **Two Time** **Software Engineering intern** at **Levelset**
   - &nbsp;&nbsp;<img width="20" src="/ibm_logo.png">&nbsp;&nbsp; Former **Cloud Engineering Trainee** at **IBM**
 
-  - &nbsp;&nbsp;<img width="20" src="/code-unscreen.gif">&nbsp;&nbsp;**Total Software Engineering Work Experience Of 6 Months.**
+  - &nbsp;&nbsp;<img width="20" src="/command-line-unscreen.gif">&nbsp;&nbsp;**Total Software Engineering Work Experience Of 6 Months.**
   
   - &nbsp;&nbsp;<img width="20" src="/zoom-unscreen.gif">&nbsp;&nbsp; Interested in **Cloud Development, Infrastructure and DevOps.**
   - &nbsp;<a href="https://drive.google.com/file/d/1EDUHFvcuuRy84jq0nKCUKDebSMfkaftl/view?usp=sharing" target="_blank"> <img width="20" src="/resume.png"/> </a> &nbsp;**Click on the Resume Icon !**
@@ -62,8 +62,8 @@ Languages
 <br/>
 <h2> <img width="30" src="/trophy.png">&nbsp; Github Trophies</h2>
 <p align="center">
-<img width="450" src="https://github-readme-stats.vercel.app/api?username=hisham-maged10&theme=gruvbox&count_private=true&show_icons=true&hide=prs,issues"/>
 <img width="375" src="https://github-readme-stats.vercel.app/api/top-langs?username=hisham-maged10&theme=gruvbox&count_private=true&hide=css&langs_count=8&layout=compact"/>
+<img width="450" src="https://github-readme-stats.vercel.app/api?username=hisham-maged10&theme=gruvbox&count_private=true&show_icons=true&hide=prs,issues"/>
 </p>
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=hisham-maged10&theme=gruvbox&no-frame=true"/>
 <h2>
