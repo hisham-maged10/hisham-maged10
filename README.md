@@ -1,4 +1,3 @@
-
 <p align="center">
 <img src="/intro.gif">
 </p>
@@ -15,7 +14,7 @@
 
   - &nbsp;&nbsp;<img width="30" src="/code-unscreen.gif">&nbsp;&nbsp;**Total Software Engineering Work Experience Of 6 Months.**
   
-  - &nbsp;&nbsp;<img width="30" src="/zoom-unscreen">&nbsp;&nbsp; Interested in **Cloud Development, Infrastructure and DevOps.**
+  - &nbsp;&nbsp;<img width="30" src="/zoom-unscreen.gif">&nbsp;&nbsp; Interested in **Cloud Development, Infrastructure and DevOps.**
   - &nbsp;<a href="https://drive.google.com/file/d/1EDUHFvcuuRy84jq0nKCUKDebSMfkaftl/view?usp=sharing" target="_blank"> <img width="20" src="/resume.png"/> </a> &nbsp;**Click on the Resume Icon !**
 <h2> <img width="30" src="/code-fork-unscreen.gif"> Skills</h2>
 <p align="center">
