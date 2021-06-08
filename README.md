@@ -7,14 +7,14 @@
 ![GitHub followers](https://img.shields.io/github/followers/hisham-maged10?label=Followers) ![GitHub followers](https://img.shields.io/github/stars/hisham-maged10?affiliations=OWNER%2CCOLLABORATOR) [![Repos Badge](https://badges.pufler.dev/repos/hisham-maged10)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/hisham-maged10)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/all/hisham-maged10)](https://badges.pufler.dev) ![Commits Badge](https://badges.pufler.dev/commits/yearly/hisham-maged10)
 </div>
  
-  - &nbsp;&nbsp;<img width="20" src="/graduation-hat.png">&nbsp;&nbsp; **Studies Computer Engineering at Faculty of Engineering, Alexandria University. (2021 Graduate)**
+  - &nbsp;&nbsp;<img width="30" src="/graduation-hat.png">&nbsp;&nbsp; **Studies Computer Engineering at Faculty of Engineering, Alexandria University. (2021 Graduate)**
 
-  - &nbsp;&nbsp;<img width="20" src="/levelset_logo.png">&nbsp;&nbsp; Former **Two Time** **Software Engineering intern** at **Levelset**
+  - &nbsp;&nbsp;<img width="30" src="/levelset_logo.png">&nbsp;&nbsp; Former **Two Time** **Software Engineering intern** at **Levelset**
   - &nbsp;&nbsp;<img width="20" src="/ibm_logo.png">&nbsp;&nbsp; Former **Cloud Engineering Trainee** at **IBM**
 
-  - &nbsp;&nbsp;<img width="30" src="/code-unscreen.gif">&nbsp;&nbsp;**Total Software Engineering Work Experience Of 6 Months.**
+  - &nbsp;&nbsp;<img width="20" src="/code-unscreen.gif">&nbsp;&nbsp;**Total Software Engineering Work Experience Of 6 Months.**
   
-  - &nbsp;&nbsp;<img width="30" src="/zoom-unscreen.gif">&nbsp;&nbsp; Interested in **Cloud Development, Infrastructure and DevOps.**
+  - &nbsp;&nbsp;<img width="20" src="/zoom-unscreen.gif">&nbsp;&nbsp; Interested in **Cloud Development, Infrastructure and DevOps.**
   - &nbsp;<a href="https://drive.google.com/file/d/1EDUHFvcuuRy84jq0nKCUKDebSMfkaftl/view?usp=sharing" target="_blank"> <img width="20" src="/resume.png"/> </a> &nbsp;**Click on the Resume Icon !**
 <h2> <img width="30" src="/code-fork-unscreen.gif"> Skills</h2>
 <p align="center">
